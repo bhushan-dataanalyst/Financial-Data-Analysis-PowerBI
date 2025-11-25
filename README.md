@@ -58,6 +58,14 @@ To analyze multi-year financial statements and generate insights on:
 
 ---
 
+## 📸 Dashboard Preview
+![Home Page](home.png)
+![Performance Page](1.png)
+![Health & Ratios Page](2.png)
+![Forecast Page](3.png)
+
+---
+
 ## 🔍 Key KPIs Included
 | Category	           | Metrics                                                        |
 |----------------------|----------------------------------------------------------------|
