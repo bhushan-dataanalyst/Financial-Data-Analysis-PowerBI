@@ -6,10 +6,10 @@ The dashboard helps business decision-makers track revenue, profitability, finan
 
 ## 🎯 Objective
 To analyze multi-year financial statements and generate insights on:
-Revenue & expenses
-Total and yearly profit trends
-Financial health and ratios
-Risk-level evaluation
+- Revenue & expenses
+- Total and yearly profit trends
+- Financial health and ratios
+- Risk-level evaluation
 
 ---
 
@@ -40,11 +40,11 @@ Risk-level evaluation
 ---
 
 ## 🔑 Skills Demonstrated
-✔ Data Cleaning & ETL
-✔ DAX Calculations for KPIs
-✔ Forecasting & Predictive Analytics
-✔ Financial KPI Analysis & Ratio Understanding
-✔ Dashboard Design & Business Storytelling
+- ✔ Data Cleaning & ETL
+- ✔ DAX Calculations for KPIs
+- ✔ Forecasting & Predictive Analytics
+- ✔ Financial KPI Analysis & Ratio Understanding
+- ✔ Dashboard Design & Business Storytelling
 
 ---
 
@@ -70,26 +70,26 @@ Risk-level evaluation
 ---
 
 ## 📈 Insights Delivered
-📌 Revenue shows a steady upward trend with **significant boost expected next year**
-📌 **Cash flow exhibits a downward pattern,** requiring close monitoring
-📌 Majority of companies fall under **low-risk category with high profitability**
-📌 Forecast models predict **9–13% revenue uplift in 2025–2026**
+- 📌 Revenue shows a steady upward trend with **significant boost expected next year**
+- 📌 **Cash flow exhibits a downward pattern,** requiring close monitoring
+- 📌 Majority of companies fall under **low-risk category with high profitability**
+- 📌 Forecast models predict **9–13% revenue uplift in 2025–2026**
 
 ---
 
 ## 🚀 How to View This Project
-Requirement	Details
-Software	Power BI Desktop
-Data Source	SQL Server
-Mode	Direct Query
+- Requirement	Details
+- Software	Power BI Desktop
+- Data Source	SQL Server
+- Mode	Direct Query
 
 --- 
 
 ## 📌 Future Enhancements
 
-🔹 Add advanced ARIMA & ML forecasting
-🔹 Enable user-controlled What-If parameters for business planning
-🔹 Publish live Power BI service dashboard with auto-refresh
+-🔹 Add advanced ARIMA & ML forecasting
+-🔹 Enable user-controlled What-If parameters for business planning
+-🔹 Publish live Power BI service dashboard with auto-refresh
 
 ---
 
@@ -103,4 +103,4 @@ Mode	Direct Query
 
 ## ⭐ Like this project?
 If you found this project useful — give a star ⭐ to the repository!
-Contributions & suggestions are welcome.
+- Contributions & suggestions are welcome.
